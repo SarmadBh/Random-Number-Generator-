@@ -1,4 +1,4 @@
-# Random-Number-Generator.
+# Guess the Number .
 The "Guess the Number" game generates a random number between 1 and 10.
 Users input their guesses through a web interface.
 The JavaScript code, organized within a Game 🎮 object, checks the validity of the input, updates the number of attempts, and compares the guess to the randomly generated number.
